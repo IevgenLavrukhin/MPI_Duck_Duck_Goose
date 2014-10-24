@@ -1,0 +1,11 @@
+To compile and run the code do:
+
+	make
+
+It creates "run" file in the same directory.
+To run code you need to type in terminal:
+
+	mpirun -n "X" ./run
+
+
+where X is a number of processors.
